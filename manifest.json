@@ -1,0 +1,33 @@
+{
+    "name": "PWA Boilerplate",
+    "short_name": "PWA Boilerplate",
+    "start_url": "index.html",
+    "display": "standalone",
+    "background_color": "#FFFFFF",
+    "theme_color": "white",
+    "scope": ".",
+    "description": "PWA Description",
+    "icons": [
+        {
+            "src": "media/images/icon-192.png",                     
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "media/images/icon-512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        },
+        {
+            "src": "media/images/apple-touch-icon.png",
+            "sizes": "180x180",
+            "type": "image/png",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "favicon.ico",
+            "sizes": "32x32",
+            "type": "image/ico"
+        }
+    ]
+}
